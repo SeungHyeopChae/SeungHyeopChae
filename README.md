@@ -2,15 +2,17 @@
 
 <!--
 **SeungHyeopChae/SeungHyeopChae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Github Stats
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SeungHyeopChae)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ### Github Stats
 
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SeungHyeopChae)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=edenist-x-x)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+### Github Stats
+
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=edenist-x-x)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
  
 
